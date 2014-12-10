@@ -1,6 +1,5 @@
 /*
  * Name: Adam Wilson
- * StudentID: 0543568
  * Project: 1
  * Class: COSC 600
  * 
